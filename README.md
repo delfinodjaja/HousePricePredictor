@@ -4,7 +4,7 @@ This Python GUI application predicts house prices using a neural network model t
 
 ## Files Included:
 
-1. **HousePrices.ipynb**: Jupyter Notebook file containing data preprocessing and model training code. (Sorry for the messy file)
+1. **HousePrices.ipynb**: Jupyter Notebook file containing data preprocessing and model training code.
 
 2. **GUI.py**: Python script for the graphical user interface (GUI) that allows users to input house features and get a predicted house price.
 
